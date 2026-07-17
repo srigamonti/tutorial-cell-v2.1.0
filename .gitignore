@@ -12,3 +12,8 @@ wheels/
 
 # Virtual environments
 .venv
+cellconfig.json
+cpool*
+sset*
+plot*
+cluster_orbit*
