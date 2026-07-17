@@ -1,4 +1,4 @@
-# Tutorial for cluster expansion with CELL (aka clusterx)
+# Tutorial for cluster expansion with `CELL` (aka `clusterx`)
 
 ## How to run the tutorials
 
