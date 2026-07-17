@@ -5,7 +5,7 @@
 To run this tutorial, first clone the repository containing the tutorial into your computer by executing
 
 ```bash
-git clone git@scm.cms.hu-berlin.de/rigamons/tutorial-cell-v2.1.0.git
+git clone git@scm.cms.hu-berlin.de:rigamons/tutorial-cell-v2.1.0.git
 ```
 The execution of this command creates a folder named `tutorial-cell-v2.1.0.git` containing all necessary files to run the tutorial. 
 
