@@ -7,11 +7,11 @@ To run this tutorial, first clone the repository containing the tutorial into yo
 ```bash
 git clone git@github.com:srigamonti/tutorial-cell-v2.1.0.git
 ```
-The execution of this command creates a folder named `tutorial-cell-v2.1.0.git` containing all necessary files to run the tutorial. 
+The execution of this command creates a folder named `tutorial-cell-v2.1.0` containing all necessary files to run the tutorial. 
 
 Move into this folder by executing
 ```bash
-cd tutorial-cell-v2.1.0.git
+cd tutorial-cell-v2.1.0
 ```
 and then you have two options:
 
