@@ -1,11 +1,18 @@
 # Tutorial for cluster expansion with `CELL` v2.1.0 (aka `clusterx`)
 
+## Install `uv` if not already installed
+
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+source "$HOME/.local/bin/env"
+```
+
 ## How to run the tutorials
 
 To run this tutorial, first clone the repository containing the tutorial into your computer by executing
 
 ```bash
-git clone git@github.com:srigamonti/tutorial-cell-v2.1.0.git
+git clone https://github.com/srigamonti/tutorial-cell-v2.1.0.git
 ```
 The execution of this command creates a folder named `tutorial-cell-v2.1.0` containing all necessary files to run the tutorial. 
 
