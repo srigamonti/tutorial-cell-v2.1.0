@@ -1,5 +1,9 @@
 # Tutorial for cluster expansion with `CELL` v2.1.0 (aka `clusterx`)
 
+To run the tutorials, follow the instructions below. To execute the commands, you need to open a bash terminal.
+
+When doing the tutorials, you may visit the documentation of `CELL` for reference [CELL API reference](https://sol.physik.hu-berlin.de/cell/modules/modules.html), [CELL Home](https://sol.physik.hu-berlin.de/cell/). 
+
 ## Install `uv` if not already installed
 
 ```bash
